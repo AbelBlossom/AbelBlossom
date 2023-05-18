@@ -10,7 +10,7 @@ I am a passionate self thought full stack developer
 * ✉️  You can contact me at [abeldzan@gmail.com](mailto:abeldzan@gmail.com)
 * 🚀  I'm currently working on [Remaths](http://https://github.com/AbelBlossom/remaths)
 * 🧠  I'm learning about Recommendation Systems
-* ⚡  I prefer tab over spaces btw
+* ⚡  I prefer tabs over spaces btw
 
 <a href="https://www.github.com/AbelBlossom" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AbelBlossom?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
