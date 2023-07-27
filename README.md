@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a passionate self thought full stack developer
+I am a passionate self taught full stack developer
 
 * 🌍  I'm based in Ghana 🇬🇭
 * ✉️  You can contact me at [abeldzan@gmail.com](mailto:abeldzan@gmail.com)
