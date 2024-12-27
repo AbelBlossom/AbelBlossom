@@ -1,3 +1,2 @@
 ### Abel
-
-> uhmm........., I use vim btw
+> uhmm........., I use nvim, btw!
